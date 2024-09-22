@@ -8,7 +8,9 @@ internal class Avaliacao
         if (nota >= 10) nota = 10;
         Nota = nota;
     }
+
     public int Nota { get; }
+
     public static Avaliacao Parse(string texto)
     {
         int nota = int.Parse(texto);

@@ -1,5 +1,6 @@
 ﻿using ScreenSound3.Modelos;
 namespace ScreenSound3.Menus;
+
 internal class Menu
 {
     public void ExibirTituloDaOpcao(string titulo)

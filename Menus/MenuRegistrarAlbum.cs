@@ -1,5 +1,6 @@
 ﻿using ScreenSound3.Modelos;
 namespace ScreenSound3.Menus;
+
 internal class MenuRegistrarAlbum : Menu
 {
     public override void Executar(Dictionary<string, Banda> bandasRegistradas)
