@@ -13,7 +13,7 @@ internal class MenuRegistrarBanda : Menu
         Banda banda = new Banda(nomeDaBanda);
         bandasRegistradas.Add(nomeDaBanda, banda);
 
-        //var client = new OpenAIAPI (KEYHERE);
+        //var client = new OpenAIAPI("INSERT OPENAI KEY HERE");
 
         //var chat = client.Chat.CreateConversation();
 
