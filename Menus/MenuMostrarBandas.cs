@@ -13,7 +13,7 @@ internal class MenuMostrarBandas : Menu
             Console.WriteLine($"Banda: {banda}");
         }
 
-        Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
+        Console.Write("\nDigite uma tecla para voltar ao menu principal");
         Console.ReadKey();
         Console.Clear();
     }

@@ -31,7 +31,7 @@ void ExibirLogo()
 ██████╔╝╚█████╔╝██║░░██║███████╗███████╗██║░╚███║  ██████╔╝╚█████╔╝╚██████╔╝██║░╚███║██████╔╝
 ╚═════╝░░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚══╝  ╚═════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝╚═════╝░
 ");
-    Console.WriteLine("Boas vindas ao Screen Sound 2.0!");
+    Console.WriteLine("Boas vindas ao Screen Sound 3.0!");
 }
 
 void ExibirOpcoesDoMenu()
@@ -57,7 +57,7 @@ void ExibirOpcoesDoMenu()
     } 
     else
     {
-        Console.WriteLine("Opção inválida");
+        Console.WriteLine("Opção inválida!");
     }
 }
 
