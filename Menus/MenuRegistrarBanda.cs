@@ -13,7 +13,7 @@ internal class MenuRegistrarBanda : Menu
         Banda banda = new Banda(nomeDaBanda);
         bandasRegistradas.Add(nomeDaBanda, banda);
 
-        //var client = new OpenAIAPI("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");
+        //var client = new OpenAIAPI("INSERT OPENAI KEY HERE");
 
         //var chat = client.Chat.CreateConversation();
 
